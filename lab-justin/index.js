@@ -9,5 +9,6 @@ let greeting = greet.greet('John');
 let sum = arithmetic.add(3,4);
 
 let difference = arithmetic.sub(5,2);
+console.log('Greeting is: ', greeting);
 console.log('Sum is: ', sum);
 console.log('Difference is: ', difference);
