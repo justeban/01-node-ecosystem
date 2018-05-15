@@ -1,4 +1,5 @@
-before_script: cd lab-justin
+before_script: 
+  - cd lab-justin
 
 language: node_js
 node_js:
