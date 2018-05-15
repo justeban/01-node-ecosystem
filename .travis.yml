@@ -1,9 +1,13 @@
-before_script: 
-  - cd lab-justin
 
 language: node_js
 node_js:
   - "10"
+
+  before_script: 
+  - cd lab-justin
+
+install: 
+  - npm install
 
 script:
   - npm run lint
