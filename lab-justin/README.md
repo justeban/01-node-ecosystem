@@ -16,7 +16,7 @@ I created a couple of modules that focus on making that inital connection from m
 
 *Arithmetic Function*
 
-  - A simple module that contains to simple math functions, sum and subtract. 
+  - A simple module that contains two simple math functions, sum and subtract. 
 
   - Each of these function take in two parameters that are numbers. 
     - ```sum(2,3)``` expected output ```5``` 
